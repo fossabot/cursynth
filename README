@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fcursynth.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fcursynth?ref=badge_shield)
+
 cursynth - a GNU program
 ------------
 cursynth is a polyphonic, MIDI enabled, subtractive synth that runs in your
@@ -53,3 +55,7 @@ cursynth [--buffer-size OR -b preferred-buffer-size]
 Questions? Feature requests? Bugs? email matthewtytel@gmail.com
 
 Copyright 2013-2015 Matt Tytel <matthewtytel@gmail.com>
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fcursynth.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fcursynth?ref=badge_large)
